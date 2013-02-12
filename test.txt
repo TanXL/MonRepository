@@ -1,7 +1,3 @@
 rajouter une ligne de caractere.
 
 --tan
-
-2eme modification
-
--- ter-2013
